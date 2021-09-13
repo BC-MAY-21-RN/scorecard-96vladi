@@ -32,8 +32,8 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    #- idiom: German
+    #  level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -126,11 +126,20 @@ skills:
 
     - name: ReactJS
       level: 20%
-      
+
     - name: Angular
       level: 10%
 
     - name: TypeScript
+      level: 10%
+
+    - name: Python
+      level: 20%
+
+    - name: MySQL
+      level: 30%
+
+    - name: Git/Github
       level: 10%
 
     
