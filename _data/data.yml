@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -42,8 +42,20 @@ sidebar:
 
     - item: Team Work
       link: # dejar en blanco
+      
+    - item: Open Minded
+      link: # dejar en blanco
 
-    - item: Time Management
+    - item: Responsibility
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+      
+    - item: Perseverance
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
