@@ -7,12 +7,12 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Vladimir Maidana Acarapi # Nombre completo
+  name: Vladimir Maidana # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: maidana.vladi@gmail.com
+  email: name@brightcoders.com
   phone:
   website: # No agregar http://
   linkedin: brightcoders
@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-  #  - idiom: German
-  #    level: Colloquial
+    - idiom: German
+      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -42,30 +42,15 @@ sidebar:
 
     - item: Team Work
       link: # dejar en blanco
-      
-    - item: Open Minded
-      link: # dejar en blanco
 
-    - item: Responsibility
-      link: # dejar en blanco
-
-    - item: Empathy
-      link: # dejar en blanco
-
-    - item: Creativity
-      link: # dejar en blanco
-      
-    - item: Perseverance
+    - item: Time Management
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a calm person, lover of animals and the preservation of the environment, I like programming and the areas of web development, mobile development and artificial intelligence that have been evolving rapidly in these times call my attention.
-    I am currently studying the Informatica career in my country Bolivia.
-    The programming language that I like the most is JavaScrip and I am addicted to text editors, the more beautiful they look the more I cling to them, currently I only use VSCode.
-    My wish is to be able to work for a major software development company.
+    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
