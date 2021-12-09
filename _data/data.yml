@@ -15,7 +15,7 @@ sidebar:
   email: maidana.vladi@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: vladimir-maidana-7a0976117
+  linkedin: Vladimir-Maidana
   github: 96vladi
   gitlab:
   bitbucket:
@@ -122,25 +122,22 @@ skills:
       level: 50%
 
     - name: React Native
-      level: 20%
+      level: 60%
 
     - name: ReactJS
-      level: 20%
+      level: 40%
 
     - name: Angular
-      level: 10%
+      level: 30%
 
     - name: TypeScript
-      level: 10%
-
-    - name: Python
       level: 20%
 
     - name: MySQL
       level: 30%
 
     - name: Git/Github
-      level: 10%
+      level: 60%
 
     
 
